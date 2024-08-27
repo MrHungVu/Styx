@@ -356,12 +356,12 @@ Through its innovative approach, robust technical infrastructure, and commitment
 
 **For further information or inquiries, please contact:**
 
-- **Email:** info@styxproject.com
-- **Website:** [www.styxproject.com](http://www.styxproject.com)
+- **Email:** #
+- **Website:** [#](#)
 - **Social Media:** 
-  - [Twitter](https://twitter.com/styxproject)
-  - [LinkedIn](https://www.linkedin.com/company/styxproject)
-  - [GitHub](https://github.com/styxproject)
+  - [Twitter](#)
+  - [LinkedIn](#)
+  - [GitHub](#)
 
 ---
 
